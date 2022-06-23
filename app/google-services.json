@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391052611410",
+    "project_id": "movieapp-29bb1",
+    "storage_bucket": "movieapp-29bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391052611410:android:16e05ff1864758d041348b",
+        "android_client_info": {
+          "package_name": "com.tesoem.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391052611410-g8960oajljr7e8rc8e8p2g274g7oiurr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIW4QkONPf2s9F-ltzM9l9oT7iht1Bm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391052611410-g8960oajljr7e8rc8e8p2g274g7oiurr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
